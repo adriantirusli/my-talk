@@ -23,4 +23,4 @@ A list of talk given by me ✌🏻😄
 
 ## 2018
 
-* [PANEL DISCUSSION] *November 25th, 2018* [GDG DevFest 2018 - Bali (Conference)](https://www.meetup.com/GDG-Bali/events/255353828/). **Title**: *Women in Tech*
+* [PANEL DISCUSSION] *November 25th, 2018* [GDG DevFest 2018 - Bali](https://www.meetup.com/GDG-Bali/events/255353828/). **Title**: *Women in Tech*
