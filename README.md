@@ -4,10 +4,13 @@ My Talks
 A list of talk given by me ✌🏻😄
 
 ## 2020
+* [TECH TALK] *February 24th, 2020* [WordPress Meetup Jakarta](https://www.meetup.com/Jakarta-WordPress-Meetup/events/272330247/) **Title**: *Mengoptimasi Core Web Vitals* **Slide**: [here](https://speakerdeck.com/adriantirusli/mengoptimasi-core-web-vitals)
+
+* [WOMEN IN TECH] *February 24th, 2020* [Indonesia Website Awards by Exabytes](https://www.iwa.id/2020/) **Title**: *Wonder Woman in IT Industry* **Slide**: [here](https://speakerdeck.com/adriantirusli/wonder-woman-in-it-industry)
 
 * [TECH TALK] *February 24th, 2020* [Vue.JS Indonesia](https://twitter.com/vuejs_id/status/1228955638547353601) **Title**: *A Lesson Learned in A11Y* **Slide**: [here](https://app.netlify.com/sites/a11y-vue-demo/overview) **Article**: [here](https://adriantirusli.me/blog/a11y-vue/)
 
-* [TECH TALK] *January 18th, 2020* [Global Diversity CFP Day 2020](https://www.globaldiversitycfpday.com/events/230) **Title**: *Watch your talk, make it Accesible* **Slide**: [here](https://accessible-talk-slide.netlify.com/) **Article**: [here](https://medium.com/@adriantirusli/not-only-your-web-pages-but-watch-your-talk-make-it-accessible-d2ec249c43b7)
+* [PUBLIC SPEAKING] *January 18th, 2020* [Global Diversity CFP Day 2020](https://www.globaldiversitycfpday.com/events/230) **Title**: *Watch your talk, make it Accesible* **Slide**: [here](https://accessible-talk-slide.netlify.com/) **Article**: [here](https://medium.com/@adriantirusli/not-only-your-web-pages-but-watch-your-talk-make-it-accessible-d2ec249c43b7)
 
 
 ## 2019
