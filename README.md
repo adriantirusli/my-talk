@@ -15,7 +15,7 @@ A list of talk given by me ✌🏻😄
 
 ## 2019
 
-* [TECH TALK] *January 31st, 2019* [Chrome Dev Summit Extended](https://twitter.com/JakartaJS/status/1202070834270965760). **Title**: *Seamless Navigation with Portal*. **Slide**: [here](https://docs.google.com/presentation/d/1_SHGMYk7DTqYNUxKiUSJTbU0sUop3iUmXqPPejvlpIg/edit?usp=sharing)
+* [TECH TALK] *December 9, 2019* [Chrome Dev Summit Extended](https://twitter.com/JakartaJS/status/1202070834270965760). **Title**: *Seamless Navigation with Portal*. **Slide**: [here](https://docs.google.com/presentation/d/1_SHGMYk7DTqYNUxKiUSJTbU0sUop3iUmXqPPejvlpIg/edit?usp=sharing)
 
 * [TECH TALK] *November 6, 2019* [WordPress Meetup Jakarta](https://www.meetup.com/Jakarta-WordPress-Meetup/events/265893425/) **Title**: *JavaScript Best Practices with WordPress* **Slide**: [here](http://bit.ly/pageloadspeedslide) **Article**: [here](https://medium.com/@adriantirusli/javascript-best-practices-with-wordpress-2019-e39fc05ee65d)
 
