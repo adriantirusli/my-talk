@@ -1,8 +1,11 @@
 My Talks
 ===
 
-A list of talk given by me ✌🏻😄
+A list of talk given by Adrianti Rusli
 
+## 2023
+* [TECH TALK] *December 3rd, 2023* [DevFest Depok]([https://www.meetup.com/Jakarta-WordPress-Meetup/events/272330247/](https://gdg.community.dev/events/details/google-gdg-depok-presents-devfest-depok-2023/)) **Title**: *Seamless and Effortless Transitions with the*
+  
 ## 2020
 * [TECH TALK] *February 24th, 2020* [WordPress Meetup Jakarta](https://www.meetup.com/Jakarta-WordPress-Meetup/events/272330247/) **Title**: *Mengoptimasi Core Web Vitals* **Slide**: [here](https://speakerdeck.com/adriantirusli/mengoptimasi-core-web-vitals)
 
